@@ -10,12 +10,12 @@
 
 <div align="center">
 
-<img align="center" alt="experimento" height="300" width="300" src="https://user-images.githubusercontent.com/113054956/233752317-9c5b1df8-0186-4750-9d66-58ecfd5e0a67.jpeg">
-<img align="center" alt="experimento" height="300" width="300" src="https://user-images.githubusercontent.com/113054956/233752318-229a7e01-e44c-40b4-85f3-f2a307287dda.jpeg">
+<img align="center" alt="experimento" height="250" width="250" src="https://user-images.githubusercontent.com/113054956/233752317-9c5b1df8-0186-4750-9d66-58ecfd5e0a67.jpeg">
+<img align="center" alt="experimento" height="250" width="250" src="https://user-images.githubusercontent.com/113054956/233752318-229a7e01-e44c-40b4-85f3-f2a307287dda.jpeg">
 <p align="center"> Antes e Depois. </p></br>
 
-<img align="center" alt="experimento" height="300" width="300" src="https://user-images.githubusercontent.com/113054956/233752320-ff2a3197-5131-4845-b188-6e5c0cb0889e.jpeg">
-<img align="center" alt="experimento" height="300" width="300" src="https://user-images.githubusercontent.com/113054956/233752319-c6623c69-014c-40b9-a0d9-78ec57488e9d.jpeg">
+<img align="center" alt="experimento" height="250" width="250" src="https://user-images.githubusercontent.com/113054956/233752320-ff2a3197-5131-4845-b188-6e5c0cb0889e.jpeg">
+<img align="center" alt="experimento" height="250" width="250" src="https://user-images.githubusercontent.com/113054956/233752319-c6623c69-014c-40b9-a0d9-78ec57488e9d.jpeg">
 <p align="center"> Antes e Depois. </p>
 
 </div></br>
